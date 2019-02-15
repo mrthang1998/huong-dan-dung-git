@@ -5,3 +5,4 @@
 	+git reset mã-dd: reset về bước chưa commit
 	+git reset mã-dd --hard: reset về bước khi chưa tạo file 
 -git remote -v
+-git push origin master -f: để push dữ liệu lên server github lần n
