@@ -1,0 +1,7 @@
+﻿-git add ten_file: add file xác định vào 
+-git add . : add tất cả vào
+-git commit -m "mota": commit file vừa add
+-RESET:
+	+git reset mã-dd: reset về bước chưa commit
+	+git reset mã-dd --hard: reset về bước khi chưa tạo file 
+-git remote -v
