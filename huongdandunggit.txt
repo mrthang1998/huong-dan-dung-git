@@ -7,3 +7,6 @@
 -git remote -v
 -git push origin master -f: để push dữ liệu lên server github lần n
 -git log: xem lại các lần đẩy dữ liệu lên
+-git status: xem lại trạng thái của các file (ví dụ như đã add nhưng chưa commit)
+-Nếu bạn chưa  clone một repository hiện có và muốn kết nối repository của bạn đến máy chủ remote, bạn phải thêm nó với:
+Git remote add origin <máy-chủ>
